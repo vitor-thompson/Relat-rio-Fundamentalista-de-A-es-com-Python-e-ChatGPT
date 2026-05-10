@@ -1,0 +1,1 @@
+# Relat-rio-Fundamentalista-de-A-es-com-Python-e-ChatGPT
