@@ -1,1 +1,1 @@
-# Relat-rio-Fundamentalista-de-A-es-com-Python-e-ChatGPT
+# Relatório Fundamentalista de Ações com Python e ChatGPT
